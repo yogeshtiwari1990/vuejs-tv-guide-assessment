@@ -41,6 +41,9 @@ In the end, so unit test for garnishing.
 ### Technologies 
 [Vue 3](https://vuejs.org/guide/quick-start.html) + [Typescript](https://www.typescriptlang.org/) +  [Vite](https://vitejs.dev/) + [Vuetify](https://next.vuetifyjs.com/en/) +[Cypress](https://www.cypress.io/)
 
+### Prerequisites
+Install Node.js version 16.0 or higher
+
 ### Install dependencies
 ```sh
 npm install # or `yarn`
